@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm <b>Tidke Ashok Taterao</b></h1>
 <h2 align="center"><b>I'm a Passionate for Problem Solving and MERN Stack Developer from India 🏳️‍🌈</b></h2>
-<h4 align="center"><b>|| Problem Solving Enthusiast ||<b>MERN Stack Developer</b>
+<h4 align="center"><b>|| Problem Solving Enthusiast || <b>MERN Stack Developer</b> ||
 </b></h4> 
 
 
