@@ -83,8 +83,6 @@ Ability to quickly Learn and Master a new skill and to implement it to solve a r
 </p>
 
 
-[![Tidke Ashok GitHub activity graph]()
-
 ## 📧 Connect with me:
 <p align="left">
 
