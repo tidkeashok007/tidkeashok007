@@ -39,7 +39,6 @@ Ability to quickly Learn and Master a new skill and to implement it to solve a r
 <img src="dj.png" height="96px" width="96px"> 
 <img src="py.png" height="96px" width="96px">
 <img src="fs.png" height="96px" width="96px">
-<img src="wk.png" height="96px" width="96px">
 
 </p> 
 
