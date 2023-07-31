@@ -12,12 +12,15 @@
 - ⚡ Fun fact **I think I am funny XD**
 
 <h3 align="left">Connect with me:</h3>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+
 <p align="left">
-<!-- <a href="https://twitter.com/khushboogoel01" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="khushboogoel01" height="30" width="40" /></a> -->
-<a href="https://www.linkedin.com/in/tidkeashok007" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="tidkeashok007" height="30" width="40" /></a>
-<a href="https://www.instagram.com/tidke_ashok_007" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="tidkeashok007" height="30" width="40" /></a>
-<a href="https://www.facebook.com/profile.php?id=100089728830127&mibextid=ZbWKwL" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="tidkeashok007" height="30" width="40" /></a>
+<!-- <a href="https://twitter.com/khushboogoel01" target="_blank"><i class="fab fa-twitter"></i></a> -->
+<a href="https://www.linkedin.com/in/tidkeashok007" target="_blank"><i class="fab fa-linkedin"></i></a>
+<a href="https://www.instagram.com/tidke_ashok_007" target="_blank"><i class="fab fa-instagram"></i></a>
+<a href="https://www.facebook.com/profile.php?id=100089728830127&mibextid=ZbWKwL" target="_blank"><i class="fab fa-facebook"></i></a>
 </p>
+
 
 
 <!--<h3 align="left">Languages and Tools:</h3>
