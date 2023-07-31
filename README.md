@@ -1,4 +1,4 @@
-<img src="lkbn.png">                     
+<img src="Tidkeashok.png">                     
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm <b>Tidke Ashok Taterao</b></h1>
 <h2 align="center"><b>I'm a Passionate for Problem Solving and MERN Stack Developer from India 🏳️‍🌈</b></h2>
@@ -28,24 +28,24 @@ Ability to quickly Learn and Master a new skill and to implement it to solve a r
 <!-- - 📖 Learn [**LearnWithTidke**]() -->
 
 
-## ❤️ DSA ZONE
+## ❤️ Web Zone
 
 <p align="left"> 
-<img src="lc.png">
-<img src="gfg.png">
-<img src="ib.png" height="96px" width="96px">
-<img src="cn.png">
-<img src="hr.png">
-<img src="he.png" height="96px" width="96px"> 
-<img src="cc.png" height="96px" width="96px">
-<img src="cf.png">
+<img src="html.png" height="96px" width="96px">
+<img src="css.png" height="96px" width="96px">
+<img src="js.png" height="96px" width="96px">
+<img src="php.png" height="96px" width="96px">
+<img src="lr.png" height="96px" width="96px">
+<img src="dj.png" height="96px" width="96px"> 
+<img src="py.png" height="96px" width="96px">
+<img src="fs.png" height="96px" width="96px">
 <img src="wk.png" height="96px" width="96px">
 
 </p> 
 
 ## 🏆 Achievements
 
-❤️ DSA ZONE
+❤️ Web Zone
 
 ✅ I have solved almost 1500+ DSA Problems on, Different-Different Coding Platforms. <br>
 ✅ 𝟓𝟎𝟎𝐃𝐚𝐲𝐬𝐎𝐟𝐂𝐨𝐝𝐞+ 𝐨𝐧 @𝐋𝐞𝐞𝐭𝐂𝐨𝐝𝐞 <br>
@@ -139,6 +139,7 @@ Other Achievement  <br>
     <a href="#"> <img src="https://img.icons8.com/fluency/96/node-js.png"/> </a>
     <a href="#"> <img src="https://img.icons8.com/fluency/96/laravel.png"/> </a>
     <a href="#"> <img src="https://img.icons8.com/fluency/96/flask.png"/> </a>
+    
 </p>
 
 
@@ -182,7 +183,7 @@ Other Achievement  <br>
 </p>
 
 
-[![Prince Singh GitHub activity graph]()
+[![Tidke Ashok GitHub activity graph]()
 
 ## 📧 Connect with me:
 <p align="left">
