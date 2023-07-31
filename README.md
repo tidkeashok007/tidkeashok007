@@ -75,39 +75,7 @@ Ability to quickly Learn and Master a new skill and to implement it to solve a r
 </p>
 
 
-## 📝 PROJECT's ZONE (Working on 20+ Persional Projects)
 
-🌐  MyCodingProfiles [**🔗**](https://github.com/PrinceSinghhub/MyCodingProfiles) 🌐 Shorting Algorithm Website [**🔗**](https://sortingalgorithmswebsite.netlify.app/)🌐  MYWebResume [**🔗**](https://github.com/PrinceSinghhub/MYWebResume)  <br> 
-🌐 Animated My DSA Profiles Circle [**🔗**](https://mydsacircle.netlify.app/) 🌐  ADVANCED-BINARY-CALCULATOR [**🔗**](https://github.com/PrinceSinghhub/ADVANCED-BINARY-CALCULATOR) 🌐 ChessBoard [**🔗**](https://mychessbord.netlify.app/) <br>
-🌐  MY-AI-ASSISTANT [**🔗**](https://github.com/PrinceSinghhub/MY-AI-ASSISTANT) 🌐 My Resume Clone [**🔗**](https://princesinghresume.netlify.app/)
-🌐  Sorting-Algorithms-With-GUI [**🔗**](https://github.com/PrinceSinghhub/Sorting-Algorithms-With-GUI) <br>
-🌐  MyCertificatesGallary [**🔗**](https://mycertificatesgallary.netlify.app/)
-🌐  Get-System-Information [**🔗**](https://github.com/PrinceSinghhub/Get-System-Information) 🌐 My DSA Journey WebSite  [**🔗**](https://dsajourneyofprincesingh.netlify.app/) <br>
-🌐 Increment Decrement Calculator [**🔗**](https://incrementdecrementoperator.netlify.app/) 🌐 Share Modal [**🔗**](https://dsamodal.netlify.app/) 🌐 ToDo-List-GUI-Python [**🔗**](https://github.com/PrinceSinghhub/ToDo-List-GUI-Python) <br>
-🌐 Tick-Tak-Too Game [**🔗**](https://github.com/PrinceSinghhub/Tick-Tak-Too-Game) 🌐 Portfolio [**🔗**](https://portfolioofprince.netlify.app/) 🌐 Modern DSA Profile Sharing [**🔗**](https://moderndsaprofilesharingpage.netlify.app/) <br> 🌐 Tick-Tack-Too Game using Dev [**🔗**](https://ticktacktoogame.netlify.app/) 🌐RazorpayClone WebSite [**🔗**](https://github.com/PrinceSinghhub/RazorpayClone-WebSite) 🌐 Discord Clone [**🔗**](https://github.com/PrinceSinghhub/Discord-Clone) <br> 🌐 DSAwithPrinceSingh [**🔗**](https://princesinghhub.github.io/DSAwithPrinceSingh/)
-
-
-<p align="center">
-    <a href="https://https://github.com/PrinceSinghhub/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Prince Singh streak" src="https://github-readme-streak-stats.herokuapp.com/?user=PrinceSinghhub&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
-</p>
- 
-## 📊 My Github Stats
-
-   <br/>
-<a href="https://github.com/PrinceSinghhub/github-readme-stats"><img alt="Prince Singh Github Stats" src="https://github-readme-stats.vercel.app/api?username=PrinceSinghhub&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/PrinceSinghhub/github-readme-stats"><img alt="Prince Singh Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrinceSinghhub&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
-<br/>
-<br/>
-
-
-
-<br/>
-<br/>
 
 ## 📈 Graph
 <p align="center">
@@ -121,9 +89,9 @@ Ability to quickly Learn and Master a new skill and to implement it to solve a r
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/tidkeashok007/" target="_main"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "#"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "#"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = "#"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
+<a href = "https://twitter.com/tidke_ashok_007/"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "https://www.instagram.com/tidke_ashok_007/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://www.youtube.com/@tidke_ashok_007/"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
 
 </p>
 
