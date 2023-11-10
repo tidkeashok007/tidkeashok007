@@ -95,6 +95,6 @@ Ability to quickly Learn and Master a new skill and to implement it to solve a r
 
 ## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=PrinceSinghhub">
+    <img src="https://komarev.com/ghpvc/?username=tidkeashok007">
 </a>
-<a href="https://github.com/PrinceSinghhub?tab=followers"><img src="https://img.shields.io/github/followers/PrinceSinghhub?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/tidkeashok007?tab=followers"><img src="https://img.shields.io/github/followers/tidkeashok007?label=Followers&style=social" alt="GitHub Badge"></a>
