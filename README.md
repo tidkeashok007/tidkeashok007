@@ -1,6 +1,6 @@
 <img src="Tidkeashok.png">
 
-<h1 align="center">Hi<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">I'm<b>Tidke Ashok Taterao</b></h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">I'm<b> Tidke Ashok Taterao</b></h1>
 <h2 align="center"><b>I'm a Passionate for Problem Solving and Full-Stack Developement | Cloud Developement | Machine Learning | Data Analysis from India 🏳️‍🌈</b></h2>
 <h4 align="center"><b>|| Problem Solving Enthusiast || Frontend Wizard || Backend Maestro || Cloud Architect || AI Enthusiast || Version Control Pro || IDE Virtuoso || ML Engineer Full Stack Alchemist ||
 </b></h4>
