@@ -25,7 +25,7 @@
 
 ## ❤️ Web Zone
 <p align="left"> 
-<img src="html.png" height="96px" width="96px" alt="HTML">
+<a href="#"><img src="html.png" height="96px" width="96px" alt="HTML"></a>
 <img src="css.png" height="96px" width="96px" alt="css">
 <img src="js.png" height="96px" width="96px" alt="js">
 <img src="php.png" height="96px" width="96px" alt="php">
