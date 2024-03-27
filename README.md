@@ -12,9 +12,10 @@
 - 👨‍💻 Love to learn new technologies and to explore new set of areas.
 - 👁‍🗨 What's Special about me? <br>
   Ability to quickly Learn and Master a new skill and to implement it to solve a realtime problems.
-- 📔 Live [**MyResume**](https://tidkeashok007.github.io/Portfolio/)
-- 🔥 [**My Web Developement Skills**](https://linktr.ee/tidke_ashok_007)
-- 👨‍💻 Check My! [**CodingProfile**](https://github.com/tidkeashok007)
+- 📔 Live [**My Resume**](https://tidkeashok007.github.io/Portfolio/)
+- 📔 Live [**My Resume IBM Cloud**](https://tidkeashokportfolio.s3.che01.cloud-object-storage.appdomain.cloud/Tidke-ashok%20final/index.html)
+- 🔥 [**My Web Developement Skills**](https://tidkeashokportfolio.s3.che01.cloud-object-storage.appdomain.cloud/Tidke-ashok%20final/projects_index.html)
+- 👨‍💻 Check My! [**Coding Profile**](https://tidkeashokportfolio.s3.che01.cloud-object-storage.appdomain.cloud/Tidke-ashok%20final/profile.html)
 - 🔭 I’m Currently Studing in **Advanced Diploma in IT Networking and Cloud Computing**
 - 📘 I’m Currently learning **Full-Stack Developement | Cloud Computing | Machine Learning | Data Analysis**
 - 👯 I’m looking to collaborate on **OpenSource Projects**
