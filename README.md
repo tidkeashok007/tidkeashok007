@@ -20,48 +20,6 @@
 - 🔗 Connect Me on [**Linkedin**](https://www.linkedin.com/in/tidkeashok007/)
 - 🔗 Connect Me on [**Twitter**](https://twitter.com/tidke_ashok_007/)
 
-## ❤️ Web Zone
-<p align="left"> 
-<a href="#"><img src="html.png" height="96px" width="96px" alt="HTML"></a>
-<img src="css.png" height="96px" width="96px" alt="css">
-<img src="js.png" height="96px" width="96px" alt="js">
-<img src="php.png" height="96px" width="96px" alt="php">
-<img src="lr.png" height="96px" width="96px" alt="lr">
-<img src="dj.png" height="96px" width="96px" alt="dj"> 
-<img src="py.png" height="96px" width="96px" alt="py">
-<img src="fs.png" height="96px" width="96px" alt="fs">
-</p>
-
-## 🚀 Languages and Tools:
-<p align="left"> 
-    <a href="#"> <img src="https://img.icons8.com/color/96/000000/html-5--v1.png"/> </a> 
-    <a href="#"> <img src="https://img.icons8.com/color/96/000000/css3.png"/> </a> 
-    <a href="#"> <img src="https://img.icons8.com/color/96/000000/javascript.png"/> </a> 
-    <a href="#"> <img src="https://img.icons8.com/color/96/000000/php.png"/> </a> 
-    <a href="#"> <img src="https://img.icons8.com/color/96/000000/bootstrap.png"/> </a> 
-    <a href="#"> <img src="https://img.icons8.com/color/96/000000/mysql-logo.png"/> </a>
-    <a href="#"> <img src="https://img.icons8.com/color/96/000000/python--v1.png"/> </a>
-    <a href="#"> <img src="https://img.icons8.com/color/96/000000/pycharm.png"/> </a>
-    <a href="#"> <img src="https://img.icons8.com/color/96/000000/git.png"/> </a>
-    <a href="#"> <img src="https://img.icons8.com/ios-filled/100/000000/github.png"/> </a> 
-    <a href="#"> <img src="https://img.icons8.com/color/96/000000/intellij-idea.png"/> </a>
-    <a href="#"> <img src="https://img.icons8.com/color/96/000000/visual-studio--v2.png"/> </a>
-    <a href="#"> <img src="https://img.icons8.com/color/96/000000/linux--v1.png"/> </a> 
-    <a href="#"> <img src="https://img.icons8.com/color/96/windows-10.png"/> </a>
-    <a href="#"> <img src="https://img.icons8.com/ios-filled/100/000000/django.png"/> </a> 
-    <a href="#"> <img src="https://img.icons8.com/color/96/000000/adobe-photoshop--v1.png"/> </a>   
-    <a href="#"> <img src="https://img.icons8.com/color/96/mongodb.png"/> </a>  
-    <a href="#"> <img src="https://img.icons8.com/ios/96/express-js.png"/> </a>  
-    <a href="#"> <img src="https://img.icons8.com/officel/96/react.png"/> </a> 
-    <a href="#"> <img src="https://img.icons8.com/fluency/96/node-js.png"/> </a>
-    <a href="#"> <img src="https://img.icons8.com/fluency/96/laravel.png"/> </a>
-    <a href="#"> <img src="https://img.icons8.com/fluency/96/flask.png"/> </a>
-</p>
-
-## 📈 Graph
-<p align="center">
-   <img src="https://github.com/killshotxd/svgIcons/blob/main/github-contribution-grid-snake.svg" alt="snake">
-</p>
 
 ## 📧 Connect with me:
 <p align="left">
