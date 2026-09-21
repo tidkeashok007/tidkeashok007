@@ -12,15 +12,12 @@
 - 👨‍💻 Love to learn new technologies and to explore new set of areas.
 - 👁‍🗨 What's Special about me? <br>
   Ability to quickly Learn and Master a new skill and to implement it to solve a realtime problems.
-- 📔 Live [**My Resume**](https://tidkeashok007.github.io/Portfolio/)
-- 📔 Live [**My Resume IBM Cloud**](https://tidkeashokportfolio.s3.che01.cloud-object-storage.appdomain.cloud/Tidke-ashok%20final/index.html)
-- 🔥 [**My Web Developement Skills**](https://tidkeashokportfolio.s3.che01.cloud-object-storage.appdomain.cloud/Tidke-ashok%20final/projects_index.html)
-- 👨‍💻 Check My! [**Coding Profile**](https://tidkeashokportfolio.s3.che01.cloud-object-storage.appdomain.cloud/Tidke-ashok%20final/profile.html)
+- 📔 Live [**My Resume IBM Cloud**](https://tidke-ashok-taterao.netlify.app/)
 - 🔭 I’m Currently Studing in **Advanced Diploma in IT Networking and Cloud Computing**
 - 📘 I’m Currently learning **Full-Stack Developement | Cloud Computing | Machine Learning | Data Analysis**
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 - ⚡ For Fun **Reading Books, Surfing Internet, Wathing News, Cricket**
-- 📫 How to reach me [**E-mail**] (ashok93tidke@gmail.com)
+- 📫 How to reach me [**E-mail**] (tidkeashoktaterao@gmail.com)
 - 🔗 Connect Me on [**Linkedin**](https://www.linkedin.com/in/tidkeashok007/)
 - 🔗 Connect Me on [**Twitter**](https://twitter.com/tidke_ashok_007/)
 
