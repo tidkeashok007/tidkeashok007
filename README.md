@@ -7,7 +7,6 @@
 
 
 ## 🙋‍♂️ About Me
-<a><img align="right" src="MyLCGoldBedge.gif" width="350" height="240" /></a>
 - 🥋 I'm very Passionate For Programming and Web-Developing Enthusiast. I'm always ready to learn new things with Effective ideas. HardCore Programming Lover ❤
 - 👨‍💻 Love to learn new technologies and to explore new set of areas.
 - 👁‍🗨 What's Special about me? <br>
