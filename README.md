@@ -15,8 +15,6 @@
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 - ⚡ For Fun **Reading Books, Surfing Internet, Wathing News, Cricket**
 - 📫 How to reach me [**E-mail**] (tidkeashoktaterao@gmail.com)
-- 🔗 Connect Me on [**Linkedin**](https://www.linkedin.com/in/tidkeashok007/)
-- 🔗 Connect Me on [**Twitter**](https://twitter.com/tidke_ashok_007/)
 
 
 ## 📧 Connect with me:
@@ -24,7 +22,6 @@
 <a href = "https://www.linkedin.com/in/tidkeashok007/" target="_main"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/tidke_ashok_007/"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/tidke_ashok_007/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = "https://www.youtube.com/@tidke_ashok_007/"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
 </p>
 
 ## ❤ Views and Followers
